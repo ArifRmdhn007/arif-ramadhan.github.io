@@ -1,0 +1,58 @@
+body,html{
+    height: 100%;
+}
+.utama{
+    background-image: url('bg.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.foto{
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 150px;
+    line-height: 250px;
+    background-position: center;
+    overflow: hidden;
+    position: absolute;
+    left: 75%;
+    bottom: 55%;
+
+}
+.foto1{
+    width: 250px;
+    background-size: cover;
+}
+.text1{
+    font-family: Gabriola;
+    font-size: 300%;
+    position: absolute;
+    left: 50%;
+    bottom: 52%;
+}
+.text2{
+    font-family: Gabriola;
+    font-size: 250%;
+    position: absolute;
+    left: 50%;
+    bottom: 45%;
+}
+.text3{
+    font-family: Gabriola;
+    font-size: 250%;
+    position: absolute;
+    left: 53%;
+    bottom: 35%;
+}
+.linkcv{
+    font-family: 'Times New Roman';
+    font-size: 100%;
+    text-decoration: none;
+    position: absolute;
+    left: 79%;
+    bottom: 50%;
+}
